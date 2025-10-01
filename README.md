@@ -15,11 +15,10 @@ The objective was to explore **athlete demographics, participation trends, and m
 
 ---
 
-## 🛠️ Tools & Libraries
-- **Python** → Pandas, Numpy, Matplotlib, Seaborn  
-- **Jupyter Lab**  
-- **Excel** (cross-checking summaries)  
-- **Power BI** (optional – extended visuals)  
+## 🚀 Tools & Libraries
+- **Python**, **JupyterLab**
+- **Pandas**, **Matplotlib**, **Seaborn**
+- PowerPoint for final presentation
 
 ---
 
@@ -66,10 +65,13 @@ The objective was to explore **athlete demographics, participation trends, and m
 
 ---
 
-## 📂 Project Files
-- `Olympics_Analysis.ipynb` → Main Jupyter Notebook with Python code & charts  
-- `Olympics_Data_Analysis_OlympicTheme.pptx` → Presentation (Olympic-inspired theme)  
-- `README.md` → Project documentation (this file)  
+## 📂 Project Structure
+
+- **`README.md`** → Overview of the project and instructions.  
+- **`Project_Proposal.ipynb`** → Initial project proposal, objectives, hypotheses, and planned approach.  
+- **`Descriptive_Statistics.ipynb`** → Exploratory data analysis including demographics (age, gender, height, weight) and medal distributions.  
+- **`Beyond_Descriptive_Stats.ipynb`** → Deeper analysis: correlations, new metrics (Medal Efficiency, Age Advantage), country & sport-specific insights.  
+- **`Findings_Presentation.pptx`** → Final presentation summarizing insights, visualizations, and recommendations (recruiter-ready).  
 
 ---
 
@@ -84,3 +86,7 @@ The objective was to explore **athlete demographics, participation trends, and m
 This analysis shows how **data can transform raw numbers into strategic insights** for sports management.  
 It highlights my ability to **clean, analyze, visualize, and present data** — skills crucial for a Data Analyst role.  
 
+---
+
+## 📧 Author
+Developed by *Rimsha Iram* | GitHub: https://github.com/Rimsha-Iram
